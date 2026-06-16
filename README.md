@@ -4,7 +4,7 @@ Desenvolvedor full stack em formacao, focado em transformar rotinas administrati
 
 [Portfolio](https://yuribarbosacouto.github.io/yuri-dev-portfolio/) | [CV PDF](https://yuribarbosacouto.github.io/yuri-dev-portfolio/Yuri_Barbosa_Couto_CV.pdf) | [E-mail](mailto:yuri.barbosa384@gmail.com)
 
-Busco estagio ou oportunidade junior em desenvolvimento full stack, especialmente em sistemas internos, operacoes, backoffice, dashboards, e-commerce, UX e automacao.
+Busco estagio em desenvolvimento full stack, especialmente em sistemas internos, operacoes, backoffice, dashboards, e-commerce, UX e automacao.
 
 Minha frase-guia: construo sistemas web e ferramentas tecnicas para transformar processos, dados e fluxos operacionais em produtos organizados, testaveis e bem documentados.
 
