@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+  <title id="title">Minha trajetória</title>
+  <desc id="desc">Grau Técnico: 2023 a 2024. Bradesco Seguros: abril de 2024 a março de 2026. ADS: agosto de 2025 a julho de 2027, conclusão prevista. Fenix Service: dezembro de 2025 a abril de 2026. Os períodos incluem atividades simultâneas.</desc>
+  <rect width="1000" height="650" rx="8" fill="#f3f7f5"/>
+  <g font-family="Arial, sans-serif">
+    <text x="48" y="57" font-size="30" font-weight="700" fill="#172923">Uma trajetória em construção</text>
+    <text x="48" y="90" font-size="18" fill="#53665b">Formação e experiências, com períodos simultâneos.</text>
+    <path d="M70 149V532" stroke="#b7d5c6" stroke-width="4"/>
+    <g fill="#237859"><circle cx="70" cy="158" r="10"/><circle cx="70" cy="280" r="10"/><circle cx="70" cy="402" r="10"/><circle cx="70" cy="524" r="10"/></g>
+    <g fill="#53665b" font-size="18">
+      <text x="107" y="153">2023 — 2024</text>
+      <text x="107" y="275">ABR 2024 — MAR 2026</text>
+      <text x="107" y="397">AGO 2025 — JUL 2027 · CONCLUSÃO PREVISTA</text>
+      <text x="107" y="519">DEZ 2025 — ABR 2026</text>
+    </g>
+    <g fill="#172923" font-size="27" font-weight="700">
+      <text x="107" y="186">Programação · Grau Técnico</text>
+      <text x="107" y="308">Jovem Aprendiz Administrativo · Bradesco Seguros</text>
+      <text x="107" y="430">Análise e Desenvolvimento de Sistemas · Unigranrio</text>
+      <text x="107" y="552">Operador de Logística · Fenix Service</text>
+    </g>
+    <g fill="#53665b" font-size="20">
+      <text x="107" y="218">Lógica, HTML, CSS, JavaScript, SQL e banco de dados.</text>
+      <text x="107" y="340">Backoffice, Office, Power Apps e Power Automate.</text>
+      <text x="107" y="462">3º período · fundamentos de sistemas, requisitos e dados.</text>
+      <text x="107" y="584">Triagem, conferência, movimentação e expedição.</text>
+    </g>
+  </g>
+</svg>

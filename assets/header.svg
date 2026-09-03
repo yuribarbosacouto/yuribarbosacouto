@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Yuri Barbosa Couto</title>
+  <desc id="desc">Estudante de ADS. Sistemas, dados e processos.</desc>
+  <rect width="1200" height="300" fill="#172923"/>
+  <rect x="0" width="10" height="300" fill="#65d8b1"/>
+  <path d="M870 0V300M990 0V300M1110 0V300M840 75H1200M840 150H1200M840 225H1200" stroke="#30473e"/>
+  <rect x="900" y="66" width="66" height="66" rx="6" fill="#65d8b1"/>
+  <rect x="1020" y="141" width="66" height="66" rx="6" fill="#e9b288"/>
+  <rect x="900" y="216" width="66" height="34" rx="6" fill="#f0f5f2"/>
+  <g font-family="Arial, sans-serif">
+    <text x="60" y="75" fill="#65d8b1" font-size="20">FORMAÇÃO + EXPERIÊNCIA + APRENDIZADO</text>
+    <text x="56" y="148" fill="#ffffff" font-size="56" font-weight="700">Yuri Barbosa Couto</text>
+    <text x="60" y="203" fill="#d0dfd6" font-size="28">Sistemas, Dados e Processos</text>
+    <text x="60" y="257" fill="#d0dfd6" font-size="20">Estudante de Análise e Desenvolvimento de Sistemas</text>
+  </g>
+</svg>
