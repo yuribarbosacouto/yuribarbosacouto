@@ -1,16 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Yuri Barbosa Couto</title>
-  <desc id="desc">Estudante de ADS. Sistemas, dados e processos.</desc>
-  <rect width="1200" height="300" fill="#172923"/>
-  <rect x="0" width="10" height="300" fill="#65d8b1"/>
-  <path d="M870 0V300M990 0V300M1110 0V300M840 75H1200M840 150H1200M840 225H1200" stroke="#30473e"/>
-  <rect x="900" y="66" width="66" height="66" rx="6" fill="#65d8b1"/>
-  <rect x="1020" y="141" width="66" height="66" rx="6" fill="#e9b288"/>
-  <rect x="900" y="216" width="66" height="34" rx="6" fill="#f0f5f2"/>
-  <g font-family="Arial, sans-serif">
-    <text x="60" y="75" fill="#65d8b1" font-size="20">FORMAÇÃO + EXPERIÊNCIA + APRENDIZADO</text>
-    <text x="56" y="148" fill="#ffffff" font-size="56" font-weight="700">Yuri Barbosa Couto</text>
-    <text x="60" y="203" fill="#d0dfd6" font-size="28">Sistemas, Dados e Processos</text>
-    <text x="60" y="257" fill="#d0dfd6" font-size="20">Estudante de Análise e Desenvolvimento de Sistemas</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+<title>Yuri Barbosa Couto — Sistemas, Dados e Processos</title>
+<defs><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern><linearGradient id="line"><stop stop-color="#45e0d0"/><stop offset="1" stop-color="#9479ff"/></linearGradient></defs>
+<rect width="1200" height="380" rx="12" fill="#101216"/><rect width="1200" height="380" fill="url(#grid)"/>
+<path d="M0 379H1200" stroke="url(#line)" stroke-width="4"/>
+<g font-family="Arial,sans-serif"><text x="48" y="52" fill="#45e0d0" font-size="15" letter-spacing="2">YURI / PERFIL PESSOAL</text>
+<text x="46" y="139" fill="#f6f7fb" font-size="64" font-weight="700">Yuri Barbosa</text><text x="46" y="205" fill="#f6f7fb" font-size="64" font-weight="700">Couto<tspan fill="#45e0d0">.</tspan></text>
+<text x="49" y="260" fill="#bac1ce" font-size="25">Sistemas, Dados e Processos</text>
+<text x="49" y="330" fill="#8b95a6" font-size="17">ADS · 3º período</text><text x="244" y="330" fill="#8b95a6" font-size="17">Rio de Janeiro, Brasil</text></g>
+<rect x="727" y="73" width="425" height="242" rx="9" fill="#191d24" stroke="#333a46"/>
+<path d="M727 112H1152" stroke="#333a46"/><circle cx="749" cy="93" r="4" fill="#ed9b67"/><circle cx="765" cy="93" r="4" fill="#d7c57b"/><circle cx="781" cy="93" r="4" fill="#45e0d0"/>
+<g font-family="Consolas,monospace" font-size="16"><text x="802" y="98" fill="#a7afbd">perfil / em construção</text>
+<text x="752" y="151" fill="#45e0d0">formação<tspan fill="#aeb8c9"> : ADS</tspan></text>
+<text x="752" y="189" fill="#b49fff">experiência<tspan fill="#aeb8c9"> : backoffice</tspan></text>
+<text x="752" y="227" fill="#efb779">prática<tspan fill="#aeb8c9"> : Power Apps</tspan></text>
+<text x="752" y="279" fill="#8692a4">// aprender, entender, aplicar</text></g>
 </svg>
