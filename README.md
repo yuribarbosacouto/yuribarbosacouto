@@ -1,62 +1,40 @@
 # Yuri Barbosa Couto
 
-Desenvolvedor full stack em formacao, focado em transformar rotinas administrativas, documentos, planilhas e controles operacionais em sistemas web com React, TypeScript, Node.js, SQL, Python e automacao.
+**Estudante de ADS | Sistemas, Dados e Processos**
 
-[Portfolio](https://yuribarbosacouto.github.io/yuri-dev-portfolio/) | [CV PDF](https://yuribarbosacouto.github.io/yuri-dev-portfolio/Yuri_Barbosa_Couto_CV.pdf) | [E-mail](mailto:yuri.barbosa384@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yuri-barbosa-couto/)
 
-Busco estagio em desenvolvimento full stack, especialmente em sistemas internos, operacoes, backoffice, dashboards, e-commerce, UX e automacao.
+## Sobre mim
 
-Minha frase-guia: construo sistemas web e ferramentas tecnicas para transformar processos, dados e fluxos operacionais em produtos organizados, testaveis e bem documentados.
+Sou estudante do 3º período de Análise e Desenvolvimento de Sistemas na Universidade Unigranrio | Afya, com previsão de conclusão em julho de 2027. Minha trajetória reúne experiência administrativa, tecnologia aplicada a processos e operações logísticas.
 
-## Foco Atual
+Atuei como Jovem Aprendiz Administrativo no Bradesco Seguros, de abril de 2024 a março de 2026, apoiando documentos, cadastros, planilhas, controles internos e backoffice. Nesse período, criei um painel interno no Microsoft Power Apps, utilizei Power Automate e ferramentas do Microsoft Office e tive contato básico com Power BI.
 
-- Interfaces React e TypeScript para fluxos de trabalho reais
-- APIs REST com validacao, regras de negocio, testes e documentacao
-- SQL, SQLite, filtros, indicadores e relatorios operacionais
-- UX de produto, acessibilidade, performance, SEO e funis criticos
-- CI, GitHub Actions, CodeQL, Dependabot e organizacao de repositorios
+Também atuei em operações logísticas na Fenix Service, com triagem, movimentação, conferência e expedição de mercadorias.
 
-## Projetos Principais
+## Minha base hoje
 
-| Projeto | Demo | Stack | O que demonstra |
-|---|---|---|---|
-| [OpsFlow Administrativo](https://github.com/yuribarbosacouto/opsflow-service-desk) | [Abrir demo](https://yuribarbosacouto.github.io/opsflow-service-desk/) | React, TypeScript, Express, SQLite, Zod, Vitest | Sistema full stack para operacoes e SLA: dashboard, score de risco, Kanban, CRUD, filtros, auditoria, comentarios, testes, CI e documentacao tecnica. |
-| [Lume Fashion Commerce](https://github.com/yuribarbosacouto/lume-fashion-commerce) | [Abrir demo](https://yuribarbosacouto.github.io/lume-fashion-commerce/) | Next.js, TypeScript, Tailwind CSS, Playwright | E-commerce UX-first com filtros em URL, pagina de produto, guia de medidas, carrinho, checkout, SEO e testes E2E desktop/mobile. |
-| [Portfolio Dev](https://github.com/yuribarbosacouto/yuri-dev-portfolio) | [Abrir site](https://yuribarbosacouto.github.io/yuri-dev-portfolio/) | React, TypeScript, Vite, Tailwind CSS | Vitrine profissional com estudo de caso, CV, links de contratacao e mapa de projetos. |
+| Contexto | Conhecimentos e experiência |
+| --- | --- |
+| Experiência profissional | Power Apps, Power Automate, Excel, Microsoft Office e rotinas administrativas |
+| Familiaridade básica | Power BI, a partir do contato no Bradesco Seguros |
+| Formação em programação | HTML, CSS, JavaScript, SQL, lógica de programação e banco de dados |
+| Graduação em andamento | Programação orientada a objetos, engenharia de requisitos, redes e segurança digital |
 
-## Laboratorio Tecnico
+Os conhecimentos acadêmicos estão em desenvolvimento e não representam experiência profissional como desenvolvedor.
 
-| Projeto | Demo/docs | Stack | Maturidade |
-|---|---|---|---|
-| [Yuri DB Lab](https://github.com/yuribarbosacouto/yuri-db-lab) | [Abrir docs](https://yuribarbosacouto.github.io/yuri-db-lab/) | TypeScript, SQL parser, storage engine, B+Tree, WAL, CLI, Vitest | Laboratorio de sistemas. Implementa parser SQL, slotted pages, heap files, indices, planner simples e recovery explicito; ainda nao e banco de producao. |
+## Foco de aprendizado
 
-## Projeto Experimental
+- Consolidar fundamentos de programação e banco de dados.
+- Praticar leitura de código, documentação e análise de requisitos.
+- Relacionar necessidades operacionais com soluções de tecnologia.
 
-| Projeto | Demo | Stack | Maturidade |
-|---|---|---|---|
-| [PolyAgent Workbench](https://github.com/yuribarbosacouto/polyagent-workbench) | [Abrir demo](https://yuribarbosacouto.github.io/polyagent-workbench/) | React, TypeScript, Express, WebSocket, metrics | MVP de arquitetura para roteamento e observabilidade de agentes simulados. Providers e outputs sao deterministicos/simulados; nao e plataforma real de agentes em producao. |
+## Sobre os repositórios
 
-## Projeto de Apoio
+Este GitHub reúne estudos e experimentos de diferentes momentos da minha formação. Há projetos desenvolvidos com apoio significativo de inteligência artificial; sua complexidade não representa, por si só, implementação independente ou domínio de toda a tecnologia utilizada.
 
-- `Cashback`: desafio Flask/API usado como exercicio de backend; nao e destaque principal do portfolio.
+Minha apresentação prioriza a formação e a experiência real, sem usar esses projetos como prova de nível técnico. O painel corporativo em Power Apps faz parte da minha experiência no Bradesco; não publico código nem dados internos da empresa.
 
-## Narrativa Profissional
+---
 
-Tenho experiencia com controle de documentos, planilhas, cadastros, contratos e processos administrativos. Uso essa vivencia para criar projetos de software que respondem perguntas de operacao e produto:
-
-- O que esta vencido?
-- Quem esta sobrecarregado?
-- Onde existe gargalo?
-- Qual demanda deve ser priorizada?
-- Como reduzir duvida em um fluxo de compra?
-- Como transformar rotina manual em sistema?
-
-## Tecnologias
-
-`React` `Next.js` `TypeScript` `JavaScript` `Node.js` `Express` `SQLite` `SQL` `Zod` `Vitest` `Playwright` `Python` `Flask` `HTML` `CSS` `Tailwind CSS` `Git` `GitHub Actions`
-
-## Contato
-
-- E-mail: [yuri.barbosa384@gmail.com](mailto:yuri.barbosa384@gmail.com)
-- Portfolio: [yuribarbosacouto.github.io/yuri-dev-portfolio](https://yuribarbosacouto.github.io/yuri-dev-portfolio/)
-- GitHub: [github.com/yuribarbosacouto](https://github.com/yuribarbosacouto)
+Interesses: sistemas internos, organização de dados, suporte e melhoria de processos.
