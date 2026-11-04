@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const { execFileSync } = require('node:child_process');
 const os = require('node:os');
-const sharp = require('sharp');
+const sharp = require(process.env.SHARP_MODULE || 'sharp');
 
 const assets = path.join(__dirname, '../assets');
 const phrases = ['aprendendo.', 'experimentando.', 'compartilhando.'];
@@ -35,18 +35,22 @@ async function renderFrames(frames) {
 async function build() {
   const scratch = fs.mkdtempSync(path.join(assets, '.banner-'));
   try {
-    const frames = fs.mkdtempSync(path.join(os.tmpdir(), 'profile-banner-'));
+    const requestedFrames = process.argv[2];
+    const frames = requestedFrames
+      ? path.resolve(requestedFrames)
+      : fs.mkdtempSync(path.join(os.tmpdir(), 'profile-banner-'));
+    fs.mkdirSync(frames, { recursive: true });
     try {
       await renderFrames(frames);
       const output = path.join(scratch, 'hello.gif');
       execFileSync('ffmpeg', [
         '-hide_banner', '-loglevel', 'error', '-framerate', '12', '-i', path.join(frames, '%03d.png'),
         '-filter_complex', '[0:v]split[a][b];[a]palettegen=max_colors=128[p];[b][p]paletteuse=dither=bayer:bayer_scale=3',
-        '-loop', '0', output,
+        '-frames:v', '90', '-loop', '0', output,
       ], { stdio: 'inherit' });
       fs.renameSync(output, path.join(assets, 'hello.gif'));
     } finally {
-      fs.rmSync(frames, { recursive: true, force: true });
+      if (!requestedFrames) fs.rmSync(frames, { recursive: true, force: true });
     }
   } finally {
     fs.rmSync(scratch, { recursive: true, force: true });
