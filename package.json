@@ -1,0 +1,13 @@
+{
+  "name": "yuribarbosacouto-profile",
+  "private": true,
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "build:banner": "node scripts/build-banner.cjs"
+  },
+  "devDependencies": {
+    "sharp": "0.35.5"
+  }
+}
